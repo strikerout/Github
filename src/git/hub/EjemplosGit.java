@@ -2,7 +2,7 @@ package git.hub;
 
 public class EjemplosGit {
     public static void main(String[] args) {
-        System.out.println("Hola");
+        System.out.println("Hola C");
 
         System.out.println("Este es un ejemplo de rama-A");
         for (int i=0; i<10; i++){
